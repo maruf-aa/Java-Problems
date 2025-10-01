@@ -1,8 +1,8 @@
 /*Print the patterns
-12345
-1234
-123
-12
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
 1
   */
 import java.util.*;
